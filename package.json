@@ -1,0 +1,18 @@
+{
+  "name": "node-red-contrib-achal-lower-case",
+  "version": "0.0.1",
+  "description": "lower-case-node",
+  "author": "Achal <achal.gautam@koyoele.in>",
+   "main": "lower-case.js",
+   "repository": {
+    "type" : "git",
+    "url" : "https://github.com/achal300/lowercase.git"
+  },
+  "node-red": {
+    "nodes": {
+      "lower-case": "lower-case.js"
+    }
+  },
+  "keywords": [ "node-red" ],
+  "os": [ "linux" ]
+}
